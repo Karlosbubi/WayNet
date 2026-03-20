@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Client/">
+    <Project Path="src/WayNet.Client/WayNet.Client.Prototype1/WayNet.Client.Prototype1.csproj" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="src/WayNet.Core/WayNet.Core.Protocols/WayNet.Core.Protocols.csproj" />
+    <Project Path="src/WayNet.Core/WayNet.Core.Types/WayNet.Core.Types.csproj" />
+  </Folder>
+</Solution>

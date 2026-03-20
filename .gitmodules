@@ -1,0 +1,6 @@
+[submodule "src/WayNet.Client"]
+	path = src/WayNet.Client
+	url = git@github.com:Karlosbubi/WayNet.Client.git
+[submodule "src/WayNet.Core"]
+	path = src/WayNet.Core
+	url = git@github.com:Karlosbubi/WayNet.Core.git
