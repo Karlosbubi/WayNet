@@ -4,3 +4,6 @@
 [submodule "src/WayNet.Core"]
 	path = src/WayNet.Core
 	url = git@github.com:Karlosbubi/WayNet.Core.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:Karlosbubi/WayNet.Docs.git
