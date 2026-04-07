@@ -7,3 +7,12 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:Karlosbubi/WayNet.Docs.git
+[submodule "protocols/wayland"]
+	path = protocols/wayland
+	url = https://gitlab.freedesktop.org/wayland/wayland-protocols.git
+[submodule "protocols/cosmic"]
+	path = protocols/cosmic
+	url = https://github.com/pop-os/cosmic-protocols.git
+[submodule "protocols/wlr"]
+	path = protocols/wlr
+	url = https://gitlab.freedesktop.org/wlroots/wlr-protocols.git
